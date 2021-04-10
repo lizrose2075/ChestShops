@@ -1,0 +1,9 @@
+main: com.lizminecraft.shoppingplugin.Main
+name: ShoppingPlugin
+description: A plugin that allows players to have their own chest shops
+version: 1.0
+api-version: 1.16
+   
+commands:
+   ChestShop:
+      description: command for chest shop plugin
